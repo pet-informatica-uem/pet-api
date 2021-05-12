@@ -1,6 +1,8 @@
 # PET-API
 
+[![Ruby](https://github.com/pet-informatica-uem/pet-api/actions/workflows/ruby.yml/badge.svg)](https://github.com/pet-informatica-uem/pet-api/actions/workflows/ruby.yml)
 [![Maintainability](https://api.codeclimate.com/v1/badges/7dc25c0561bb7534b54a/maintainability)](https://codeclimate.com/github/pet-informatica-uem/pet-api/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/7dc25c0561bb7534b54a/test_coverage)](https://codeclimate.com/github/pet-informatica-uem/pet-api/test_coverage)
 
 API do site do PET para gestão de eventos e organização do grupo 
 
