@@ -47,7 +47,6 @@ end
 group :test do
   gem 'simplecov', '~> 0.21.2'
   gem 'simplecov-lcov'
-  gem 'sqlite3', '~> 1.4.2'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
