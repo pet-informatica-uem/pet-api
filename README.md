@@ -1,5 +1,7 @@
 # PET-API
 
+[![Maintainability](https://api.codeclimate.com/v1/badges/7dc25c0561bb7534b54a/maintainability)](https://codeclimate.com/github/pet-informatica-uem/pet-api/maintainability)
+
 API do site do PET para gestão de eventos e organização do grupo 
 
 # Configuração
